@@ -1,0 +1,341 @@
+{
+  "id": "1072396333257859092",
+  "type": 0,
+  "content": "",
+  "channel_id": "1069347002237866055",
+  "author": {
+    "id": "1069381939452190780",
+    "username": "Dimensionals",
+    "display_name": null,
+    "avatar": "9dcd5d37c5ca382169eb7f42f70ac7b4",
+    "avatar_decoration": null,
+    "discriminator": "2746",
+    "public_flags": 0,
+    "bot": true
+  },
+  "attachments": [],
+  "embeds": [
+    {
+      "type": "rich",
+      "description": "The first raid of many! Once you get a certain amount of points, you'll have the opportunity to buy <@&1069346992750329907> once we add it to the store, but be fast - it may sell out quickly \ud83d\udc40\n\n<@&1069346992720990349>",
+      "color": 5951477
+    }
+  ],
+  "mentions": [],
+  "mention_roles": [],
+  "pinned": false,
+  "mention_everyone": false,
+  "tts": false,
+  "timestamp": "2023-02-07T06:00:10.009000+00:00",
+  "edited_timestamp": null,
+  "flags": 0,
+  "components": [],
+  "reactions": [
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83e\udee1"
+      },
+      "count": 1302,
+      "count_details": {
+        "burst": 0,
+        "normal": 1302
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83d\udc40"
+      },
+      "count": 499,
+      "count_details": {
+        "burst": 0,
+        "normal": 499
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83e\uddd0"
+      },
+      "count": 276,
+      "count_details": {
+        "burst": 0,
+        "normal": 276
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83c\uddfc"
+      },
+      "count": 151,
+      "count_details": {
+        "burst": 0,
+        "normal": 151
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83d\udca5"
+      },
+      "count": 92,
+      "count_details": {
+        "burst": 0,
+        "normal": 92
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\u2705"
+      },
+      "count": 95,
+      "count_details": {
+        "burst": 0,
+        "normal": 95
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83c\udd92"
+      },
+      "count": 69,
+      "count_details": {
+        "burst": 0,
+        "normal": 69
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83e\udd1d"
+      },
+      "count": 59,
+      "count_details": {
+        "burst": 0,
+        "normal": 59
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83d\ude05"
+      },
+      "count": 58,
+      "count_details": {
+        "burst": 0,
+        "normal": 58
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83d\ude18"
+      },
+      "count": 53,
+      "count_details": {
+        "burst": 0,
+        "normal": 53
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": "1072285987880849500",
+        "name": "SmilingKoa"
+      },
+      "count": 52,
+      "count_details": {
+        "burst": 0,
+        "normal": 52
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": "1072284971106054225",
+        "name": "SmilingEve"
+      },
+      "count": 52,
+      "count_details": {
+        "burst": 0,
+        "normal": 52
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83c\uddee\ud83c\udde9"
+      },
+      "count": 36,
+      "count_details": {
+        "burst": 0,
+        "normal": 36
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83c\udfcc\ufe0f"
+      },
+      "count": 36,
+      "count_details": {
+        "burst": 0,
+        "normal": 36
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83c\uddf7\ud83c\uddfa"
+      },
+      "count": 7,
+      "count_details": {
+        "burst": 0,
+        "normal": 7
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83e\uddd9\u200d\u2642\ufe0f"
+      },
+      "count": 8,
+      "count_details": {
+        "burst": 0,
+        "normal": 8
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83d\udc4f"
+      },
+      "count": 7,
+      "count_details": {
+        "burst": 0,
+        "normal": 7
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    },
+    {
+      "emoji": {
+        "id": null,
+        "name": "\ud83c\udde7\ud83c\udde9"
+      },
+      "count": 6,
+      "count_details": {
+        "burst": 0,
+        "normal": 6
+      },
+      "burst_user_ids": [],
+      "burst_count": 0,
+      "burst_colors": [],
+      "burst_me": false,
+      "me_burst": false,
+      "me": false
+    }
+  ]
+}
